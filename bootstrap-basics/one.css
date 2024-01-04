@@ -1,0 +1,9 @@
+a{
+    background-color: azure;
+}
+.siddu{
+    background-color: yellow;
+}
+a[target]{
+    background-color: red;
+}

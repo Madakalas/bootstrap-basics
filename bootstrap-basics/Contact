@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <title>
+
+        </title>
+        <link rel="stylesheets" href="./one.css">
+    </head>
+    <body>
+        <div>
+            <a href="./Homepage.html"> Home</a>
+            <a href="./About.html"> About</a>
+            <a href="./Contact"> Contact</a>
+            <a href="./services.html"  class ="siddu" target="_blank"> Services</a> <!-- target is help to open a new tab-->
+            <!-- class is only change the current  file and colour not changing in all files-->
+        </div>
+        <h1> Contact page</h1>
+    </body>
+</html>
